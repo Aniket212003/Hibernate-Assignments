@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;16-Ass-Hib-Annotations-Properties-File/src/main/resources/myconfig.properties&apos; to &apos;hibernate.properties&apos;" description="Rename resource &apos;myconfig.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/myconfig.properties" name="hibernate.properties" stamp="1712570583292" updateReferences="true"/>
+</session>

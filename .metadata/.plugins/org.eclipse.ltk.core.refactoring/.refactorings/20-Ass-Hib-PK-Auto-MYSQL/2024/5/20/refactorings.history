@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.aniket&apos; to &apos;20-Ass-Hib-Trasient-Demo/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;19-Ass-Hib-PK-Auto-MYSQL&apos;&#x0D;&#x0A;- Destination element: &apos;20-Ass-Hib-Trasient-Demo/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;19-Ass-Hib-PK-Auto-MYSQL/src/test/java/com.aniket&apos;" description="Copy package" destination="=20-Ass-Hib-Trasient-Demo/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.aniket" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1715601699223" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;17-Ass-Hib-Composite-Key-MySQL&apos; to &apos;17-Ass-Hib-CompositeKey-Annotations-V1&apos;&#x0D;&#x0A;- Original element: &apos;17-Ass-Hib-Composite-Key-MySQL&apos;&#x0D;&#x0A;- Renamed element: &apos;17-Ass-Hib-Composite-Key-MySQL&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;17-Ass-Hib-Composite-Key-MySQL&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=17-Ass-Hib-Composite-Key-MySQL" name="17-Ass-Hib-CompositeKey-Annotations-V1" references="true" stamp="1712828324227" version="1.0"/>
+</session>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Aniket\STUDY\JAVA THE KING\Hibernate\Hibernate_Assign\15-Ass-Hib-App-Annotations-Demo\src\main\java\com\aniket\App.java"/>
+			<item value="D:\Aniket\STUDY\JAVA THE KING\Hibernate\Hibernate_Assign\16-Ass-Hib-Annotations-Properties-File\src\main\java\com\aniket\App.java"/>
+			<item value="D:\Aniket\STUDY\JAVA THE KING\Hibernate\Hibernate_Assign\15-Ass-Hib-App-Annotations-Demo\src\main\resources\hibernate.cfg.xml"/>
+			<item value="D:\Aniket\STUDY\JAVA THE KING\Hibernate\Hibernate_Assign\10-Ass-Hib-2ndApp-MySQL-PgSQl-CSV\src\main\java\com\aniket\App.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.aniket._Ass_Hib_AUTO_PK_MySQL"/>
+			<item value="com.aniket"/>
+			<item value="com.aniket._Ass_"/>
+		</list>
+		<list key="groupId">
+			<item value="com.aniket"/>
+		</list>
+		<list key="artifactId">
+			<item value="20-Ass-Hib-AUTO-PK-MySQL"/>
+			<item value="19-Ass-Hib-Trasient-Demo"/>
+			<item value="19-Ass-"/>
+			<item value="17-Ass-Hib-Composite-Key-MySQL"/>
+			<item value="16-Ass-Hib-Annotations-Properties-File"/>
+			<item value="15-Ass-Hib-App-Annotations-Demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

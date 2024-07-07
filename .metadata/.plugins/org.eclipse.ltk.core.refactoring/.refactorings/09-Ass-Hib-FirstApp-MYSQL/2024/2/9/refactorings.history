@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;09-Ass-Hib-FirstApp-MYSQL/src/main/resources/student.hdm.xml&apos; to &apos;Student.hbm.xml&apos;" description="Rename resource &apos;student.hdm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/student.hdm.xml" name="Student.hbm.xml" stamp="1708955647794" updateReferences="true"/>
+</session>
